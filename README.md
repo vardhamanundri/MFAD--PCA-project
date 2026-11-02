@@ -6,7 +6,7 @@ This project demonstrates the practical application of **Linear Algebra and PCA 
 
 Face images are converted into numerical vectors, reduced to important features using PCA, and classified using **K-Nearest Neighbors (KNN)**.
 
-## Technologies Used
+## Technologies used
 
 - Python
 - NumPy
